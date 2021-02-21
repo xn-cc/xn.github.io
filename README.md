@@ -1,2 +1,3 @@
 # xn.github.io
-XN Hackerz
+# XN Community
+# XN Server
